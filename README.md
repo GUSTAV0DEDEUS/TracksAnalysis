@@ -1,4 +1,4 @@
-# README
+# Rock Genre Data Analysis Using Spotify Data
 
 ![Chart](image.png)
 
